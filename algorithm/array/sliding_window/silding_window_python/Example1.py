@@ -44,6 +44,7 @@ if __name__ == "__main__":
     length = int(input("리스트 길이값: "))
     window_size = int(input("윈도우 길이값: "))
 
+
     dna_string = list(input("dna 문자열값: "))
 
     matching_list = list(map(int, input("matching_list값: ").split()))

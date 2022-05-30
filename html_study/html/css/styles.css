@@ -1,0 +1,48 @@
+h1 {
+    font-size: 64px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+p i {
+    font-size: 48px;
+}
+
+.nice-toast-txt {
+    font-size: 64px;
+    color: green;
+}
+
+.div-text {
+    background-color: #eee;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 40px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-text .p-in-div-text {
+    color: blueviolet;
+    text-align: center;
+}
+
+.div-text .h2-in-div-text {
+    color: darkviolet;
+    font-size: 64px;
+}
+
+#test-id {
+    color: orange;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
