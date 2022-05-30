@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/4_while문.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/5_for문.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_star.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_함수.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/7_switch활용.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/8_함수연습.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제4_계산기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제5_계산이_누적되는_계산기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/sql_study/database_class/database_class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/day01.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29rpqlpTkcm4IR7BpZhDlg8ZGYB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git_projects/study/html_study/html/css/styles.css",
+    "settings.editor.selected.configurable": "preferences.editor"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="" />
+      <created>1653881261412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653881261412</updated>
+      <workItem from="1653881265407" duration="10988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
