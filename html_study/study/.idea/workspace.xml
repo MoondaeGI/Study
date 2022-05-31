@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/4_while문.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/5_for문.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_star.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_함수.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/7_switch활용.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/8_함수연습.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제4_계산기.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제5_계산이_누적되는_계산기.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mysql_study/sql_study/database_class/database_class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/day01.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/day01.html" afterDir="false" />
-    </list>
+    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,21 +26,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/git_projects/study/html_study/html/css/styles.css",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git_projects/study/html_study/html/css/styles.css&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "HTML"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653881261412</updated>
       <workItem from="1653881265407" duration="10988000" />
+      <workItem from="1653900811036" duration="258000" />
     </task>
     <servers />
   </component>
