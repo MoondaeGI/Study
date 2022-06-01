@@ -1,6 +1,5 @@
 import asyncio
 
-
 EMPTY = '-'
 ALIVE = '*'
 
@@ -46,7 +45,9 @@ def count_neighbors(y, x, get):
     return count
 
 
-def game_logic(state, neighbors):
+async def game_logic(state, neighbors):
+    await asyncio.sleep(3)  # sleep 3sec
+
     if state == ALIVE:
         if neighbors < 2:
             return EMPTY
@@ -59,20 +60,29 @@ def game_logic(state, neighbors):
     return state
 
 
-def step_cell(y, x, get, set):
+async def step_cell(y, x, get, set):
     state = get(y, x)
     neighbors = count_neighbors(y, x, get)
-    next_state = game_logic(state, neighbors)
+    next_state = await game_logic(state, neighbors)
     set(y, x, next_state)
 
 
-def simulate(grid):
+async def simulate(grid):
     next_grid = Grid(grid.height, grid.width)
+
+    tasks = []
     for y in range(grid.height):
         for x in range(grid.width):
-            step_cell(y, x, grid.get, next_grid.set)
+            task = step_cell(y, x, grid.get, next_grid.set)  # 팬아웃
+        tasks.append(task)
+
+    await asyncio.gather(*task)  # 팬인
 
     return next_grid
+
+
+class ColumnPrinter:
+    pass
 
 
 if __name__ == "__main__":
