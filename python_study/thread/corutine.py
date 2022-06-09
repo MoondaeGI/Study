@@ -82,7 +82,11 @@ async def simulate(grid):
 
 
 class ColumnPrinter:
-    pass
+    def __init__(self):
+        self.colum = []
+
+    def __str__(self):
+        pass
 
 
 if __name__ == "__main__":
