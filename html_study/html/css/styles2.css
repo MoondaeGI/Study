@@ -1,0 +1,26 @@
+body {
+    background-color: ivory;
+}
+
+h1 {
+    font-size: 75px;
+    color: royalblue;
+    text-align: center;
+}
+
+h2 {
+    border: 4px solid blueviolet;
+    font-size: 50px;
+    color: blueviolet;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding: 20px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -13,6 +13,9 @@ p i {
 }
 
 .nice-toast-txt {
+    border: 5px solid red;
+    padding: 50px 65px 80px 55px;
+    margin: 80px 30px;
     font-size: 64px;
     color: green;
 }
@@ -38,6 +41,8 @@ p i {
 }
 
 #test-id {
+    margin-left: auto;
+    margin-right: auto;
     color: orange;
 }
 

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="" />
+    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/src/String_Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/insertion_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/insertion_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../html/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/css/styles.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/test1/test2/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/test1/test2/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,21 +33,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/git_projects/study/html_study/html/css/styles.css&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git_projects/study/html_study/html/css/styles.css",
+    "settings.editor.selected.configurable": "preferences.editor"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;HTML&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "HTML"
     ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,6 +58,8 @@
       <updated>1653881261412</updated>
       <workItem from="1653881265407" duration="10988000" />
       <workItem from="1653900811036" duration="258000" />
+      <workItem from="1655451099128" duration="3866000" />
+      <workItem from="1655468437819" duration="3166000" />
     </task>
     <servers />
   </component>
