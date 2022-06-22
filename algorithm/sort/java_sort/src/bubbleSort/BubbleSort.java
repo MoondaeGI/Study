@@ -1,6 +1,8 @@
+package bubbleSort;
+
 import java.util.Scanner;
 
-public class bubble_sort {
+public class BubbleSort {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
 
