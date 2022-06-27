@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b43005-def8-4829-a035-411c9903f416" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyRocketPowered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/MallarDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/NormalQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/ToyQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/ToyDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../html_study/study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../html_study/study/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f6b43005-def8-4829-a035-411c9903f416" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +29,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "D:/git_projects/study/design_patten/Strategy_Patten",
+    "last_opened_file_path": "D:/git_projects/study/algorithm/sort/java_sort",
     "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
