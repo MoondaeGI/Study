@@ -29,43 +29,32 @@ public class QuickSort {
         }
     }
 
-    public static void quickSort(int[] arrays, int startNumber, int endNumber) {
-        if (endNumber - startNumber <= 1) {
+    private static void quickSort(int[] array, int startPoint, int endPoint) {
+        if (endPoint - startPoint <= 1) {
             return;
         }
 
-        int startPoint = startNumber;
-        int endPoint = endNumber;
+        int pivotIndex = (endPoint + startPoint) / 2;
+        int pivot = array[pivotIndex];
 
-        int pivotIndex = endPoint + 1;
-        int pivot = arrays[pivotIndex];
+        swap(array, pivotIndex, endPoint);
 
-        while (startPoint < endPoint) {
-            while (arrays[startPoint] <= pivot) {
-                startPoint++;
+        int changeIndex = 0;
+        for (int i = startPoint; i < endPoint; i++) {
+            if (pivot < array[i]) {
+                swap(array, changeIndex++, i);
             }
-
-            while (arrays[endPoint] > pivot) {
-                endPoint--;
-            }
-
-            int temp = arrays[startPoint];
-            arrays[startPoint] = arrays[endPoint];
-            arrays[endPoint] = temp;
         }
 
-        int changIndex;
-        if (arrays[startPoint] < pivot) {
-           changIndex = startPoint + 1;
-        } else {
-            changIndex = startPoint;
-        }
+        swap(array, changeIndex, endPoint);
 
-        int temp = arrays[changIndex];
-        arrays[changIndex] = arrays[pivotIndex];
-        arrays[pivotIndex] = temp;
+        quickSort(array, startPoint, changeIndex - 1);
+        quickSort(array, changeIndex, endPoint);
+    }
 
-        quickSort(arrays, startNumber, changIndex - 1);
-        quickSort(arrays, changIndex, endNumber);
+    private static void swap(int[] array, int a, int b) {
+        int temp = array[a];
+        array[a] = array[b];
+        array[b] = temp;
     }
 }
