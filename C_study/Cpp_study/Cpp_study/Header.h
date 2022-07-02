@@ -1,3 +1,3 @@
-#pragma once  // 전처리기
+#pragma once
 #include <iostream>
-using namespace std;  // 지시자
+using namespace std;
