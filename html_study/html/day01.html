@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!-- 웹브라우저에게 어떤 종류의 html버전을 쓰는지 알려줌(자동으로 html5 사용)-->
+<html>
+    <head>
+        <title>day01</title>
+        <meta charset="utf-8">
+        <!--한글을 사용한다면 한글을 지원하는 웹사이트 브라우저를 사용해야 함
+        이것을 피하기 위해서는 meta를 사용해 해당 인코더를 사용하라고 강제로 표현해줌-->
+        <!--
+        <style>
+
+            h1 {
+                font-size: 64px;
+                text-align: center;
+            }
+
+            h2 {
+                text-align: center;
+                margin-top: 100px;
+            }
+
+            p i {
+                font-size: 48px;
+            }
+
+            .nice-toast-txt {
+                font-size: 64px;
+                color: green;
+            }
+
+            .div-text {
+                background-color: #eee;
+                border-radius: 20px;
+                margin-bottom: 50px;
+                padding: 40px;
+                width: 600px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .div-text .p-in-div-text {
+                color: blueviolet;
+                text-align: center;
+            }
+
+            .div-text .h2-in-div-text {
+                color: darkviolet;
+                font-size: 64px;
+            }
+
+            #test-id {
+                color: orange;
+            }
+
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        </style>
+        -->
+        <!-- style: css를 사용하기 위해 부름
+             해당 문법:
+                원하는 부분 {
+                            원하는 조건들;
+                            }
+             font-size: 해당 부분의 원하는 글자의 크기
+             text-align: 줄 정렬(center는 가운데 정렬)
+             margin-top: 위에서부터 원하는 만큼 띄어 내려옴
+             p i: p태그 안의 i태그 글만 스타일링 하는 방법 (모든 i태그를 스타일링 하려면 걍 i만 씀)
+             color: 해당 내용의 색깔을 지정
+             img: 이미지를 css함. 위치 변경 등이 가능
+        -->
+        <link href="./css/styles.css" rel="stylesheet">
+        <!-- css 파일을 다른 곳에 작성하 수 있음 코드 가독성을 위해서 이 방법을 추천함, 다른 내부파일에도 같은 스타일을 적용할 수 있음 -->
+    </head>
+    <body>
+        <h1 style="color: blue">day01</h1>  <!-- 가장 큰 머릿말-->
+        <!-- 태그 내에서도 css 사용이 가능함 -->
+        <div class="div-text">
+            <h2 class="h2-in-div-text">test html</h2>  <!-- 두번째로 큰 머릿말-->
+            <img src="images/train.gif" width="500">
+            <!-- img: 사진을 올리는 태그, 종료값은 없음
+                      원하는 사진의 주소나 폴더값을 src에 올림
+                      width, height: 사진의 가로, 세로 크기를 조절함. 둘 중 하나만 해도 나머지 값도 자동 조절됨
+            -->
+
+            <p class="p-in-div-text">I want <b>to</b> <i>study</i> html <strong>Good</strong> day <em>Commander</em></p>
+        </div>
+        <!-- p: 문단
+            b: 굵게
+            i: 흘려쓰기
+            strong: 굵게 쓰기, b와 같지만 다른 소프트웨어에게 강조하는 기능을 가짐
+            em: 흘려 쓰기, i와 같지만 strong과 비슷한 기능을 가짐
+        -->
+        <p class="nice-toast-txt">nice toast im hungry</p>
+        <!-- class: 같은 태그들이 여러개 있을 때 구분 가능하게 해줌
+                    css로 묶어서 같이 사용 할 수 있음
+        -->
+
+        <p id="test-id"> id use like this</p>
+        <!-- id: 클래스와 달리 어떤 태그의 고유한 것을 표현할 수 있게 해줌
+                 중복 불가, css에서는 #으로 표현 -->
+
+        <a href="http://google.com" target="blank">구글로 가는 링크</a>
+        <a href="test1/page1.html">page1</a>
+        <a href="test1/test2/page2.html">page2</a>
+        <a href="test1/test2/page3.html">page3</a>
+
+        <!-- a: 링크
+             href 를 사용해서 원하는 곳으로 갈 수 있는 하이퍼링크를 작성할 수 있다.
+             target="blank": 외부 페이지로 해당 링크를 열 수 있음
+             내부 위치로 옮기고 싶다면 폴더 파일경로를 href에 적으면 된다
+        -->
+    </body>
+</html>
+<!-- html: 해당 태그에 감싸진 코드들은 html 코드라고 알려줌
+     head: 해당 태그에 감싸진 코드들은 head라고 알려줌 (title, meta, css 등)
+     body: 해당 태그에 감싸진 코드들은 body라공 알려줌 (p, h1 ~ h6 등)
+     -> 셋 모두 굳이 필요하진 않음 (구글 html, css 가이드에서도 생략을 권장함)
+-->
+

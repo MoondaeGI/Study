@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86504956-427e-418f-b278-ea061e7e8989" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/01.예제_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/04_C++의_자료형.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/04_C언어_기본_문법2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/05.C언어_기본문법_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/05.포인터_참조자.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Cpp_study.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Cpp_study.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Cpp_study.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/01.예제_1.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/04_C++의_자료형.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/Cpp_study.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/Cpp_study.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/vc142.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Debug/vc142.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/문법_연습문제1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/문법_연습문제3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Cpp_study/예제2번.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Debug/Cpp_study.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/Cpp_study/Debug/Cpp_study.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/.vs/study/v17/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/.vs/study/v17/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/.vs/study/v17/ipch/AutoPCH/9006166c76cff7a4/1_변수와_자료형.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/.vs/study/v17/ipch/AutoPCH/ea2362e2e3d376c8/2_SCANF.ipch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/10_문자열.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/10_배열_중_가장_큰_값.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/12_1,2차원_배열_패턴만들기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/1_변수와_자료형.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/2_scanf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/2차원_배열_활용.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/3_조건문.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/4_while문.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/5_for문.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_star.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/6_함수.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/7_switch활용.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/7_레이블.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/8_배열.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/8_함수연습.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/9_구조체.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/9_성적_프로그램.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/scanf_문자열 주의.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/study.vcxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/study.vcxproj.filters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/study.vcxproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/test.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/1_변수와_자료형.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/2_scanf.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.exe.recipe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.ilk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/CL.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/CL.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/CL.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/link.command.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/link.read.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/link.write.1.tlog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/study.tlog/study.lastbuildstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/vc143.idb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/x64/Debug/vc143.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/값_넘기기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/구조체_포인터.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/근의_공식.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제4_계산기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/예제5_계산이_누적되는_계산기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/전화번호부.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/캐릭터_만들기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/파일구조체.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터_매개변수_예제.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터_배열_연습문제.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터_연습문제_1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터_활용_3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터의_기본.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터의_활용1_함수.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/포인터의_활용2_함수_포인터.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/study/함수_포인터로_계산기_만들기.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/x64/Debug/study.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_study/study/x64/Debug/study.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/silding_window_python/silding_window_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/out/production/untitled3/test$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/out/production/untitled3/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/out/production/untitled3/test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/sliding_window/sliding_window_java/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_java/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_java/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/two_pointer_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array/two pointer/two_pointer_python/Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/array_patten/snail_patten.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/.idea/sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/insertion_sort_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/out/production/insertion_sort_java/insertion_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/out/production/insertion_sort_java/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/insertion_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/java_sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/bubbleSort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/insertionSort/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/quickSort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/selectionSort/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/bubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/insertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/quickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/selectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/out/production/select_sort_java/select_sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/select_sort_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/src/select_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/tree/heap/heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/tree/tree_python/traverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/tree/tree_python/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/tree/트리.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithm/tree/힙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/Decorator_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/component/Beverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/component/DarkRoast.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/component/Decaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/component/Espresso.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/component/HouseBlend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/decorator/CondimentDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/decorator/Mocha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/decorator/Soy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/out/production/Decorator_Patten/decorator/Whip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/component/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/component/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/component/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/component/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/component/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/decorator/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/decorator/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/decorator/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Decorator_Patten/src/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/Factory_Method_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizza/CheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizza/PepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizza/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizza/VeggiePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/cheese/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/cheese/MozzarellaCheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/cheese/ReggianoCheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/dough/Dough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/dough/PanCrustDough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/dough/ThinCrustDough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/pepperoni/ChorizoPepperoni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/pepperoni/Pepperoni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/pepperoni/SalamiPepperoni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/sauce/MarinaraSauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/sauce/Sauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/sauce/TomatoSauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/veggies/Garlic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/veggies/Mushroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/veggies/Onion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/veggies/RedPepper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredient/veggies/Veggie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredientFactory/ChicagoPizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredientFactory/NYPizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaIngredientFactory/PizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaStore/ChicagoPizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaStore/NYStylePizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/abstract_factory_patten/pizzaStore/PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizza/ChicagoStylePizza/ChicagoStyleCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizza/ChicagoStylePizza/ChicagoStylePepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizza/NYStylePizza/NYStyleCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizza/NYStylePizza/NYStylePepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizza/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizzaStore/ChicagoStylePizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizzaStore/NYStylePizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/factory_method_patthen/pizzaStore/PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizza/CheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizza/ClamPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizza/PepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizza/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizza/VeggiePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizzaStore/PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/pizzaStore/PizzaStoreImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/out/production/Factory_Method_Patten/simple_factory/simplePizzaFactory/SimplePizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizza/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizza/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/cheese/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/cheese/MozzarellaCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/cheese/ReggianoCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/dough/Dough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/dough/PanCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/dough/ThinCrustDough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/pepperoni/ChorizoPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/pepperoni/Pepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/pepperoni/SalamiPepperoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/sauce/MarinaraSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/sauce/Sauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/sauce/TomatoSauce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/veggies/Garlic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/veggies/Mushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/veggies/Onion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/veggies/RedPepper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredient/veggies/Veggie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredientFactory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredientFactory/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaIngredientFactory/PizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaStore/ChicagoPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaStore/NYStylePizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/abstract_factory_patten/pizzaStore/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizza/ChicagoStylePizza/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizza/ChicagoStylePizza/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizza/NYStylePizza/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizza/NYStylePizza/NYStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizzaStore/ChicagoStylePizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizzaStore/NYStylePizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/factory_method_patthen/pizzaStore/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizza/CheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizza/ClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizza/PepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizza/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizza/VeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizzaStore/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/pizzaStore/PizzaStoreImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory_Method_Patten/src/simple_factory/simplePizzaFactory/SimplePizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/Observer_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/observer/CurrentConditionsDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/observer/DisplayElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/observer/ForecastDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/subject/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/pull/subject/WeatherData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/observer/CurrentConditionsDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/observer/DisplayElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/observer/ForecastDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/subject/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/out/production/Observer_Patten/push/subject/WeatherData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/pull/subject/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/observer/CurrentConditionsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/observer/DisplayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/observer/ForecastDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer_Patten/src/push/subject/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/Singleton_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/src/dclSingleTon/DCLChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/src/enumSingleTon/EnumChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Singleton_Patten/src/normalSinglTon/NormalChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/Strategy_Patten.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Fly/FlyBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Fly/FlyNoWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Fly/FlyRocketPowered.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Fly/FlyWithWings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/MallarDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Quack/MuteQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Quack/NormalQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Quack/QuackBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/Quack/ToyQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Duck/ToyDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/out/production/Strategy_Patten/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Fly/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Fly/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Fly/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/MallarDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Quack/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Quack/NormalQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Quack/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/Quack/ToyQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Duck/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy_Patten/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_study/git_study_note1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../git_study/git_study_note2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/css/styles2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/css/styles3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/day01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/day02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/images/bye_bye.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/images/read.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/images/tea.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/images/train.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/test1/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/test1/test2/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/html/test1/test2/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../html_study/study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/StringStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/out/production/StringStudy/String_Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/StringStudy/src/String_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/java-origin-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day01/dtoExmaple/ClientSomethingRequestDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day01/dtoExmaple/SomeLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day01/nonePojo/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day01/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day01/voExample/ProductResultVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice01/CopiedSomi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice01/Somi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/BaseCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/CatDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/DoctorCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice02/SoldierCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice03/CasinoChip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice03/CatMountain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice03/PowerGlove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice03/SmartCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpPractice03/Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpQuiz01/CopiedSemi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpQuiz01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/day02/dpQuiz01/Semi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/dpQuiz02/Bazuka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/dpQuiz02/CatMountain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/dpQuiz02/DoubleGun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/dpQuiz02/SmartCat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/out/production/java-origin-study/dpQuiz02/Weapon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day01/dtoExmaple/ClientSomethingRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day01/dtoExmaple/SomeLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day01/nonePojo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day01/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day01/voExample/ProductResultVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice01/CopiedSomi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice01/Somi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/BaseCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/CatDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/DoctorCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice02/SoldierCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice03/CasinoChip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice03/CatMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice03/PowerGlove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice03/SmartCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpPractice03/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpQuiz01/CopiedSemi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpQuiz01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/day02/dpQuiz01/Semi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/dpQuiz02/Bazuka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/dpQuiz02/CatMountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/dpQuiz02/DoubleGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/dpQuiz02/SmartCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/java-origin-study/src/dpQuiz02/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java_study/study/study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/.idea/javascript_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/js_with_html_study/day02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/js_with_html_study/day02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/js_with_html_study/day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/js_with_html_study/day02/day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/js_with_html_study/day02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day07.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/day08.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javascript_study/study_js/study_js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/mysql_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mysql_study/sql_study/database_class/database_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/corutine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python_study/thread/thread.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BQtCEUVwO9BM8pYNbUsNDtHL0Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git_projects/market"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86504956-427e-418f-b278-ea061e7e8989" name="Changes" comment="" />
+      <created>1656850014237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656850014237</updated>
+      <workItem from="1656850017351" duration="590000" />
+      <workItem from="1657028639105" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

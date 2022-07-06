@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+
+<head>
+    <title>day02</title>
+    <meta charset="utf-8">
+
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <!-- fonts.google.com에서 원하는 폰트를 선택 후, 이 명령어를 헤드에 붙여넣기 한다-->
+    <style>
+        .text-in-div {
+            text-align: center;
+        }
+        h1 {
+            font-family: "Times New Roman", Times, serif;
+            font-size: 74px;
+            color: darkviolet;
+            text-align: center;
+        }
+
+        h2 {
+            font-family: "Roboto Light", sans-serif;
+            font-size: 50px;
+            text-align: center;
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .font-test {
+            font-weight: 300;
+            text-decoration: underline;
+        }
+
+        .link-div {
+            text-align: center;
+        }
+
+        .span-text {
+            color: red;
+        }
+    </style>
+    <!-- font-weight: 폰트 굵기를 변경해주는 명령어
+                      100 단위로 조절 가능하며 브라우저에 따라 지원하는 최대값이 다름
+         text-decoration: underline -> 아래 밑줄
+                          overline -> 윗줄
+                          line-through -> 취소선
+         text-align: letf, center, right를 사용해 글자 정렬이 가능함
+                     a태그는 불가능함 -> a태그를 div로 감싸서 범위를 늘려 정렬해준다
+         font-family: 폰트 종류를 선택하고 입힐 수 있음 >> 폰트가 없을 수도 있기 때문에 2번째 폰트 이름도 쓸 수 있음
+                      Serif -> Times New Roman, 궁서체
+                      Sans-Serif -> Arial, 굴림체
+                      Monospace -> Courier, Courier New
+                      Cursive -> Comic Sans MS, Monotype Corsiva
+                      Fantasy -> Impact
+                      fonts.google.com에서 원하는 폰트를 가져 와서 사용할 수도 있음
+    -->
+</head>
+<body>
+    <div>
+        <h1>day02 page</h1>
+        <h2>day02 is made 2022-05-31</h2>
+    </div>
+    <div>
+        <img src="images/read.gif" width="400">
+        <p class="text-in-div">my favorite image</p>
+    </div>
+    <p class="font-test"><b>Hungry</b> <span class="span-text">im not hungry</span></p>
+    <!-- span: 특정 태그 안의 값만 바꾸고 싶을때 사용. div는 무조건 줄바꿈을 실행하기때문에 기존의 모양은 그대로 두고 싶다면 사용됨 -->
+    <div class="link-div">  <!-- div로 감싸줘야 text-align 사용 가능 -->
+        <a href="test1/page1.html">page1</a>
+    </div>
+</body>

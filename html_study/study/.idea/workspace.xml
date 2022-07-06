@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyRocketPowered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/MallarDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/NormalQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/Quack/ToyQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Duck/ToyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design_patten/Strategy_Patten/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29rpqlpTkcm4IR7BpZhDlg8ZGYB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/git_projects/study/html_study/html/test1/test2/page2.html&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3d12b4-6c26-4501-8055-cc7976d2dc28" name="Changes" comment="" />
+      <created>1653881261412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653881261412</updated>
+      <workItem from="1653881265407" duration="10988000" />
+      <workItem from="1653900811036" duration="258000" />
+      <workItem from="1655451099128" duration="3866000" />
+      <workItem from="1655468437819" duration="6190000" />
+      <workItem from="1655554165657" duration="60000" />
+      <workItem from="1656059097046" duration="1238000" />
+      <workItem from="1656060643437" duration="76000" />
+      <workItem from="1656060888645" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
