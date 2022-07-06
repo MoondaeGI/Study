@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="790f30cd-7212-48a9-8ebf-63fe9a66c402" name="Changes" comment="" />
+    <list default="true" id="790f30cd-7212-48a9-8ebf-63fe9a66c402" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/insertion_sort_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/out/production/insertion_sort_java/insertion_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/out/production/insertion_sort_java/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/insertion_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/insertion_sort_java/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/java_sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/bubbleSort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/insertionSort/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/quickSort/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/out/production/java_sort/selectionSort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/bubbleSort/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/insertionSort/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/quickSort/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/java_sort/src/selectionSort/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/out/production/select_sort_java/select_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/select_sort_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/src/select_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +55,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day03/day03-2/day03-2.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day03/day03-2/day03-2.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day03/day03-2/day03-2_dataset.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/day03/day03-2/style.css" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657093705188</updated>
-      <workItem from="1657093707076" duration="10642000" />
+      <workItem from="1657093707076" duration="11166000" />
     </task>
     <servers />
   </component>
