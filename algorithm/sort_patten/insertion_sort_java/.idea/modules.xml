@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sort.iml" filepath="$PROJECT_DIR$/sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertion_sort_java.iml" filepath="$PROJECT_DIR$/insertion_sort_java.iml" />
     </modules>
   </component>
 </project>

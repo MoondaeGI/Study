@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/sort.iml" filepath="$PROJECT_DIR$/sort.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/insertion_sort_java/insertion_sort_java.iml" filepath="$PROJECT_DIR$/insertion_sort_java/insertion_sort_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_sort/java_sort.iml" filepath="$PROJECT_DIR$/java_sort/java_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/select_sort_java/select_sort_java.iml" filepath="$PROJECT_DIR$/select_sort_java/select_sort_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sort.iml" filepath="$PROJECT_DIR$/.idea/sort.iml" />
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
+    </modules>
+  </component>
+</project>

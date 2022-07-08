@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="790f30cd-7212-48a9-8ebf-63fe9a66c402" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../algorithm/sort/.idea/misc.xml" beforeDir="false" />
@@ -39,6 +40,9 @@
       <change beforePath="$PROJECT_DIR$/../../algorithm/sort/select_sort_java/src/select_sort.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f6b43005-def8-4829-a035-411c9903f416" name="Changes" comment="" />
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,15 +51,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+=======
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< HEAD
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/day03/day03-2/day03-2.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/day03/day03-2/day03-2.js" root0="FORCE_HIGHLIGHTING" />
@@ -71,20 +82,33 @@
   </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
+=======
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/git_projects/study/javascript_study/js_with_html_study",
+=======
+    "last_opened_file_path": "D:/git_projects/study/algorithm/sort/java_sort",
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
     "list.type.of.created.stylesheet": "CSS"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="D:\git_projects\study\javascript_study\js_with_html_study\day03\day03-1" />
     </key>
   </component>
@@ -98,6 +122,12 @@
       <updated>1657093705188</updated>
       <workItem from="1657093707076" duration="11166000" />
     </task>
+=======
+      <recent name="D:\git_projects\study\javascript_study\js_with_html_study\.idea\html" />
+    </key>
+  </component>
+  <component name="TaskManager">
+>>>>>>> 40c9cdbfd611198644fdee11cbd0ab7adce0798c
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
