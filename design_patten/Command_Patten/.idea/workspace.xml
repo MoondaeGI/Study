@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd218ff-1e6e-4c65-a58d-73eb6b143f69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ceilingFan/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ceilingFan/CeilingFanChangeSpeedCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ceilingFan/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ceilingFan/CeilingFanOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/light/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/light/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/light/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/noCommand/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/stereo/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/stereo/stereoWithCd/StereoOffWithCdCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/stereo/stereoWithCd/StereoOnWithCdCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/stereo/stereoWithDvd/StereoOffWithDvdCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/stereo/stereoWithDvd/StereoOnWithDvdCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/remoteControl/RemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5dd218ff-1e6e-4c65-a58d-73eb6b143f69" name="Changes" comment="Add command_Patten in design_Patten">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Command_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Command_Patten.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -54,7 +36,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git_projects/study/javascript_study/js_with_html_study"
   }
 }]]></component>
   <component name="RunManager">
@@ -79,8 +62,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657264774807</updated>
-      <workItem from="1657264777087" duration="4973000" />
+      <workItem from="1657264777087" duration="5973000" />
     </task>
+    <task id="LOCAL-00001" summary="Add command_Patten in design_Patten">
+      <created>1657270075857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657270075857</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add command_Patten in design_Patten">
+      <created>1657270094050</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657270094050</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add command_Patten in design_Patten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add command_Patten in design_Patten" />
   </component>
 </project>
