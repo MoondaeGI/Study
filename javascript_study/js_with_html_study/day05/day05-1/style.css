@@ -1,0 +1,20 @@
+#blue-or-red {
+    margin: auto;
+
+    width: 500px;
+    hight: 500px;
+    background-color: blue;
+}
+
+#blue-or-red p {
+    text-align: center;
+}
+
+#mouse-move {
+    background-color: aquamarine;
+}
+
+#mouse-move p {
+    margin: 50px 0;
+    text-align: center;
+}
