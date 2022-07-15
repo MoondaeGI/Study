@@ -60,7 +60,7 @@ public class Main {
         dessertMenu.add(new MenuItem("소르베",
                 "라스베리와 라임의 절묘한 조화!",
                 1.89, true));
-        
+
         // 주문들을 호출할 클라이언트, 웨이트리스 호출
         Waitress waitress = new Waitress(allMenus);
         waitress.printMenu();  // 모든 주문 출력
