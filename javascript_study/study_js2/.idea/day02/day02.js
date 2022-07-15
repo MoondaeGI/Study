@@ -82,3 +82,98 @@ function defualtTest(x, y = x +3 ) {
 }
 defualtTest(4);  // x: 4,  y: 7
 
+// =====================================================================
+// argument
+
+function printArgument(a, b) {
+    console.log(a);
+    console.log(b);
+    console.log("--------------------");
+}
+// 기존의 argument를 사용한 함수
+// 요구하는 값의 양보다 적으면 undefined를 호출, 많으면 잘려나간다.
+printArgument('a', 'b');  // a, b
+printArgument('c');  // c, undefined
+printArgument('d', 'e', 'f');  // d, e
+
+function newPrintArgument() {
+    for (const arg of arguments) {
+        console.log(arg);
+    }
+}
+// 함수 내부에서 arguements를 사용해 접근이 가능함
+// arguments의 개수를 동적으로 사용 가능
+newPrintArgument('a', 'b');  // a, b
+newPrintArgument('c');  // c
+newPrintArgument('d', 'e', 'f');  // d, e, f
+
+// =====================================================================
+// ES6+: Rest Parameter
+// arguments를 배열의 형식으로 사용 가능하게 만들어줌. parameter에 ...를 찍어서 사용함
+function NewNewPrintArgument(...args) {
+    console.log(args.splice(0, 2));  // 배열로서 접근이 가능
+}
+
+NewNewPrintArgument('d', 'e', 'f');  // (2) ['d', 'e']
+
+// Rest Parameter 활용 예시
+function LastNewPrintArgument(first, second, ...other) {
+    console.log(first);
+    console.log(second);
+    // 배열로 묶어 표현할 필요가 있는 arguments들만 따로 분류해 사용 가능함
+    console.log(other[0]);
+    console.log(other[1]);
+}
+
+LastNewPrintArgument(1, 2, 3, 4, 5);  // 1, 2, 3, 4
+
+// =====================================================================
+// ES6+: Arrow Funcion
+// 이름이 없는 익명 함수
+
+const getTwice = (number) => {
+    return number * 2;
+};
+const getTwiceShorter = (number) => number * 2;
+
+console.log(getTwice(5));  // 10
+console.log(getTwiceShorter(5));  // 10
+
+// Arrow Fucntion을 이용해 arguments를 사용하는건 불가능함
+const getArgument = () => {
+    console.log(arguments);  // 실행이 되지 않는다
+}
+
+// =====================================================================
+// this
+// 함수 내부에서 자신을 가리킬때 쓰는 메소드
+console.log(this)  // Window
+
+// 일반적인 this 사용
+function getName() {
+    return `${this.name}`;
+}
+// Arraw function에서 this를 사용한다면, 실행 이전의 this값만을 가져감.
+const getArrawName = () => {
+    return `${this.name}`;
+}
+
+const moondaegi = {
+    name: 'MoonDaeGI',
+    getName: getName,
+    getArrowName: getArrawName,
+};
+
+const ddaedaegi = {
+    name: 'DdaeDaeGI',
+    getName: getName,
+    getArrowName: getArrawName,
+};
+
+console.log(moondaegi.getName());  // MoonDaeGI
+console.log(ddaedaegi.getName());  // DdaeDaeGI
+
+console.log(moondaegi.getArrowName());
+console.log(ddaedaegi.getArrowName());
+
+
