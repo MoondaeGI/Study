@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75da26d2-4516-41a1-8f77-99e3a7f9cbbb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Adapter_Patten/Adapter_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter_Patten/Adapter_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command_Patten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Command_Patten/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command_Patten/Command_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Command_Patten/Command_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite_Patten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Patten/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite_Patten/Composite_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite_Patten/Composite_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator_Patten/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_Patten/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator_Patten/Decorator_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator_Patten/Decorator_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Method_Patten/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Factory_Method_Patten/Factory_Method_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Factory_Method_Patten/Factory_Method_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterator_Patten/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterator_Patten/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterator_Patten/Iterator_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterator_Patten/Iterator_Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Iterator_Patten/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Iterator_Patten/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Observer_Patten.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Observer_Pattern.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B9JKyUs4sa43s6zOSrIv2ig4GL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/git_projects/study/design_patten/Singleton_Patten"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.pull.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="push.Main" />
+      <module name="Observer_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="push.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pull.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pull.Main" />
+      <module name="Observer_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pull.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.pull.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75da26d2-4516-41a1-8f77-99e3a7f9cbbb" name="Changes" comment="" />
+      <created>1656312309645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656312309645</updated>
+      <workItem from="1656312312469" duration="3288000" />
+      <workItem from="1656400469709" duration="5131000" />
+      <workItem from="1657877458610" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pull/observer/CurrentConditionsDisplay.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pull/observer/CurrentConditionsDisplay.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pull/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
