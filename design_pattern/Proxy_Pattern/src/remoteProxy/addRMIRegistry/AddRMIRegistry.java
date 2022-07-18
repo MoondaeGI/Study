@@ -1,4 +1,7 @@
-package remoteProxy.client.gumballMachineRemote;
+package remoteProxy;
+
+import remoteProxy.client.gumballMachineRemote.GumballMachine;
+import remoteProxy.client.gumballMachineRemote.GumballMachineRemote;
 
 import java.rmi.Naming;
 

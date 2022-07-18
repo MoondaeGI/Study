@@ -1,7 +1,6 @@
 // 문장 표현식
 // 모든 문장은 표현식과 표현식이 아닌 문자로 나뉠 수 있다.
 
-
 // 조건 연산자(삼항 연산자) ? :
 const CUT_OFF = 80;
 function passChacker(score) {
@@ -120,3 +119,97 @@ let last = 'last';
 console.log(`변경 전: start = ${start}, last = ${last}`);  // 변경 전: start = start, last = last
 [start, last] = [last, start];  // 파이썬과 유사한 문법
 console.log(`변경 후: start = ${start}, last = ${last}`);  // 변경 후: start = last, last = start
+
+// 객체 구조분해
+
+const game1 = {
+    title1: '소녀전선',
+    platform1: 'moblie',
+    release1: 2017
+};
+
+const game2 =  {
+    title2: '원신',
+    platform2: 'PC',
+    release2: 2021
+}
+
+const {title1, platform1, description1} = game1;  // const tiltle = game.title, const platfrom = game.platfrom
+const {title2, ...rest2} = game2;  // rest parameter 사용 가능
+const {title1: gameName, release1: gameStartYear} = game1;  // property의 이름과 다른 변수 선언 가능
+
+console.log(title1);  // 소녀전선
+console.log(platform1);  // moblie
+console.log(description1);  // undefined
+
+// 함수 구조분해
+function getArray() {
+    return [1, 2, 3, 4];
+}
+const [first, second, third] = getArray();
+console.log(first, secone, third);  // 1, 2, 3
+// 파라미터를 객체로 사용할 경우 좀 더 유용함
+function printArray({title, platform, relase}) {  // 파라미터단에서 구조 분해를 사용할 수 있음
+    return `${title}, ${platform}, ${release}`;
+}
+
+//================================================
+// 에러와 에러객체
+/*
+    에러가 발생시, 에러 객체를 생성함
+    에러 객체는 에러의 이름과 그 에러의 설명을 담은 메세지를 가지고 있음
+    error = {name, massage}
+    1. Reference error: 참조하지 못하는 변수 사용시 발생하는 오류
+    2. Type error: 자료형 오류
+    3. Syntax error: 문법 오류
+*/
+
+const typeError = new TypeError('타입에러가 발생함');  // 에러 객체 생성
+
+// throw typeError;  // 에러 발생. 이후의 아래 코드들이 적용 안됨
+console.log(typeError.name);  // TypeError
+console.log(typeError.massage);  // 타입에러가 발생함
+
+// try - catch
+try {
+    console.log("에러 발생하지 않음");
+} catch(error) {  // 에러 발생시, 해당 파라미터로 객체가 생성 후 전달됨
+    console.log('에러 발생');
+
+    console.log(error);
+    console.error(error);  // 실제 에러 메세지처럼 표시해주는 메소드
+}
+
+// try-catch 활용
+function printMembers(members) {
+    try {  // 배열이 아닌 값이 전달될 시 에러 발생
+        for (const member of members) {
+            console.log(member);
+        }
+    } catch (error) {
+        console.error(error);
+        alert(`${error.name}이 발생함`);
+    }
+}
+
+const teamA = ['adf', 'wer', 'gfh', 'tyr'];
+printMembers(teamA);
+
+const teamB = { name:'ery', };
+printMembers(teamB);  // 에러 메세지 발생
+
+console.log("에러 이후에도 코드 실행");  // catch문을 사용해 발생된 에러이기 때문에 코드가 지속됨
+
+// try-catch-finally
+// finally: 에러 발생 상관 여부와 관계없이 반드시 실행되는 코드
+
+try {
+    printMembers('영훈', '윤수', '동욱');
+} catch (err) {
+    alert('에러가 발생했습니다!');
+    console.error(err);
+} finally {  // 에러가 발생해도 실행된다.
+    const end = new Date();
+    const msg = `코드 실행을 완료한 시각은 ${end.toLocaleString()}입니다.`;
+    console.log(msg);
+}
